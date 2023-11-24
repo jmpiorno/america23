@@ -3,13 +3,13 @@
 		<Waypoint altitude="106" comment="CLUB" id="34" name="CP AMERICA">
 			<Location latitude="-35.5058" longitude="-62.9895"/>
 		</Waypoint>
-		<ObservationZone length="10000" type="Line"/>
+		<ObservationZone length="5000" type="Line"/>
 	</Point>
 	<Point type="Area">
 		<Waypoint altitude="107" comment="ESTACION" id="728" name="TRES ALGARRO">
 			<Location latitude="-35.1842" longitude="-62.7667"/>
 		</Waypoint>
-		<ObservationZone radius="10000" type="Cylinder"/>
+		<ObservationZone radius="15000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
 		<Waypoint altitude="116" comment="ESTACION" id="729" name="VILLEGAS">
@@ -21,12 +21,12 @@
 		<Waypoint altitude="0" comment="ESTACION" id="730" name="GONZALEZ MORENO">
 			<Location latitude="-35.5645" longitude="-63.3683"/>
 		</Waypoint>
-		<ObservationZone radius="15000" type="Cylinder"/>
+		<ObservationZone radius="5000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="106" comment="CLUB" id="34" name="CP AMERICA">
 			<Location latitude="-35.5058" longitude="-62.9895"/>
 		</Waypoint>
-		<ObservationZone radius="3000" type="Cylinder"/>
+		<ObservationZone radius="20000" type="Cylinder"/>
 	</Point>
 </Task>
