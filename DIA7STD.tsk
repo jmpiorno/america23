@@ -9,13 +9,13 @@
 		<Waypoint altitude="171" comment="" id="124" name="MAUR. MAYER">
 			<Location latitude="-36.2167" longitude="-64.0333"/>
 		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
+		<ObservationZone radius="3000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
 		<Waypoint altitude="121" comment="" id="156" name="Quenuma">
 			<Location latitude="-36.5692" longitude="-63.0856"/>
 		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
+		<ObservationZone radius="3000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="106" comment="123.00" id="1" name="1-CLUB">
