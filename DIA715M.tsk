@@ -9,13 +9,13 @@
 		<Waypoint altitude="134" comment="" id="46" name="CNIA. BARON">
 			<Location latitude="-36.15" longitude="-63.85"/>
 		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
+		<ObservationZone radius="3000" type="Cylinder"/>
 	</Point>
 	<Point type="Area">
 		<Waypoint altitude="115" comment="" id="190" name="Tres Lomas">
 			<Location latitude="-36.459" longitude="-62.8571"/>
 		</Waypoint>
-		<ObservationZone radius="500" type="Cylinder"/>
+		<ObservationZone radius="3000" type="Cylinder"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="106" comment="123.00" id="1" name="1-CLUB">
