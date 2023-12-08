@@ -1,0 +1,38 @@
+<Task fai_finish="0" finish_min_height_ref="AGL" finish_min_height="150" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_requires_arm="1" aat_min_time="7200" type="AAT">
+	<Point type="Start">
+		<Waypoint altitude="104" comment="" id="68" name="EL RODEO">
+			<Location latitude="-35.5997" longitude="-62.9892"/>
+		</Waypoint>
+		<ObservationZone length="10000" type="Line"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="119" comment="" id="127" name="MIGUEL CANÉ">
+			<Location latitude="-36.1608" longitude="-63.5131"/>
+		</Waypoint>
+		<ObservationZone radius="20000" type="Cylinder"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="98" comment="123.5" id="33" name="C.P.T.LAUQUE">
+			<Location latitude="-36.015" longitude="-62.6953"/>
+		</Waypoint>
+		<ObservationZone radius="25000" type="Cylinder"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="91" comment="" id="206" name="VIRTUAL 1">
+			<Location latitude="-35.5114" longitude="-62.4967"/>
+		</Waypoint>
+		<ObservationZone radius="20000" type="Cylinder"/>
+	</Point>
+	<Point type="Area">
+		<Waypoint altitude="104" comment="" id="73" name="Fortin Olavarria">
+			<Location latitude="-35.7004" longitude="-63.0171"/>
+		</Waypoint>
+		<ObservationZone radius="10000" type="Cylinder"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="106" comment="123.00" id="1" name="1-CLUB">
+			<Location latitude="-35.5059" longitude="-62.9895"/>
+		</Waypoint>
+		<ObservationZone radius="3000" type="Cylinder"/>
+	</Point>
+</Task>
